@@ -1,13 +1,13 @@
 {
   "name": "chat-box",
   "version": "1.0.0",
-  "description": "",
+  "description": "Messaging app ",
   "main": "index.js",
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js"
   },
-  "author": "",
+  "author": "Satveer Singh",
   "license": "ISC",
   "dependencies": {
     "bad-words": "^3.0.4",
