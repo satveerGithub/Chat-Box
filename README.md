@@ -1,8 +1,10 @@
 # chat-box
-chat application
-"npm start dev " comand for run application 
-http://localhost:3000/ 
-
+- Chat application using socket programming in node.js
+# Technologies
+- java script
+- node.js
+- Express
+- socket.io
 ### Note
 
 Changes should be commited to `src/` files only.
